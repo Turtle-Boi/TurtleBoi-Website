@@ -1,1 +1,2 @@
-a website for my base domain that is being unused, turtleboi.playit.gg
+a website for my [base domain](https://turtleboi.playit.gg) that is currently unused
+
